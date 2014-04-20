@@ -4,5 +4,6 @@
     <string name="app_name">TaQ</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="toptaq_title">Top TaQs</string>
 
 </resources>
