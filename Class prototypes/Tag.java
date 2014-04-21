@@ -1,3 +1,4 @@
+package taq.uml;
 /**
  *
  */

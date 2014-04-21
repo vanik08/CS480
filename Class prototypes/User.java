@@ -1,5 +1,8 @@
-import java.util.ArrayList;
+package taq.uml;
+import com.sun.scenario.Settings;
 
+import java.util.ArrayList;
+import javax.xml.stream.Location;
 /**
  *
  */

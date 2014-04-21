@@ -1,3 +1,5 @@
+package taq.uml;
+import javax.xml.stream.Location;
 import java.util.LinkedList;
 
 /**
