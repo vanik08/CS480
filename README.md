@@ -8,7 +8,7 @@ Android Project for CS480 at Cal Poly Pomona
 | Task Priority                      | Affiliated Engineers   | Time Budget   |
 | ---------------------------------- | ---------------------- | ------------- |
 | GUI Implementation                 | Amir/David/Steven      | April 23rd    |
-| GUI Design                         | David/Amir/Steven      | April 18th    |
+| GUI Design                         | David/Amir             | April 18th    |
 | Database                           | Vanik/Steve            | May 8th       |
 | Implementing the BB and Events     | Sung/Steven/Alec       | May 1st       |
 | User Elements                      | Alec/David             | May 8th       |
