@@ -1,3 +1,7 @@
+package taq.uml;
+
+import java.sql.Time;
+
 /**
  *
  */

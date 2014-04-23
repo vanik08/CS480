@@ -1,6 +1,8 @@
+package taq.uml;
 /**
  *
  */
+import java.util.Date;
 public class Event extends Taq {
 
     /**
@@ -20,9 +22,8 @@ public class Event extends Taq {
      * @param t the list of tags
      * @param h the BulletinBoard the Taq belongs to
      */
-    public Taq(String n, String body, Tag[] t, BulletinBoard h, long endTime) {
+    public Event(String n, String body, Tag[] t, BulletinBoard h, long endTime) {
         super(n, body, t, h);
-
         // set startDate and endDate
     }
 
