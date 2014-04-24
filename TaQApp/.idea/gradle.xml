@@ -7,8 +7,8 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="C:\Android\Projects" />
-            <option value="C:\Android\Projects\app" />
+            <option value="C:\Android\CS480\TaQApp" />
+            <option value="C:\Android\CS480\TaQApp\app" />
           </set>
         </option>
       </GradleProjectSettings>
